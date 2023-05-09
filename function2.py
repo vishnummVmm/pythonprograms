@@ -1,4 +1,4 @@
-''' sum of two numbers using function'''
+''' calculator using function'''
 
 
 a=float(input( "enter first number "))
